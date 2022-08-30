@@ -5,11 +5,14 @@ Diane Sands
 Business problem:
 Here is where you state the business problem you were trying to solve
 predicting overall sales numbers for stores in a system
+
 Data: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view?usp=sharing
 Data can include source and high-level description (e.g. # obs)
 data provided by coding dojo for the class
+
 Methods
 made a copy of the data and performed a train test split to run various regression models on the data
+
 Results
 ![image](https://user-images.githubusercontent.com/107601210/187552180-2c6fbaea-f0fa-4a19-8ee3-5dcbd21e54bb.png)
 Sentence about visualization.
